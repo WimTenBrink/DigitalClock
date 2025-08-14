@@ -1,0 +1,7 @@
+{
+  "name": "Digital Clock",
+  "description": "A clean and modern digital clock that displays the current time, updating every second.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
